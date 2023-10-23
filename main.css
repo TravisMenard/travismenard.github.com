@@ -1,0 +1,24 @@
+/* Apply a background to each page */
+body {
+  background-color: #f5f5f5; /* Custom background color */
+  background-image: url('background.jpg'); /* You can use an image as a background */
+  background-size: cover;
+}
+
+/* Styles for all images */
+img {
+  max-width: 100%; /* Ensure images don't overflow their containers */
+  border-radius: 10px; /* Add rounded corners to images */
+  opacity: 0.8; /* Reduce opacity to make images semi-transparent */
+  filter: grayscale(30%); /* Apply a grayscale filter */
+}
+
+/* Styles for h1 elements */
+h1 {
+  color: #0077b6; /* Custom color */
+  font-size: 36px; /* Adjust the font size */
+  font-weight: bold; /* Make the text bold */
+  text-decoration: underline; /* Add an underline to the text */
+}
+
+/* Additional CSS rules can be added based on your specific styling needs */
