@@ -7,7 +7,6 @@ body {
 
 /* Apply styles to all images */
 img {
-  width: 100%; /* Make images responsive */
   border-radius: 10px; /* Add rounded corners */
   opacity: 0.8; /* Apply transparency */
   filter: grayscale(20%); /* Apply a grayscale effect */
