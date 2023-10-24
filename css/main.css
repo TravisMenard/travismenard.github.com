@@ -20,6 +20,7 @@ h1 {
   font-weight: bold;
   text-decoration: underline;
   margin: 10px 0; /* Add some space around h1 elements */
+  text-align: center;
 }
 
 /* Additional styles that apply across all pages */
