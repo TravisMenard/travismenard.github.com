@@ -42,5 +42,20 @@ h2 {
     margin: 0;
 }
 
+.contact-info {
+    display: flex; /* Allows image and content side by side */
+    align-items: center; /* Center vertically */
+}
+
+.contact-info img {
+    width: 150px; /* Set the width of your image */
+    height: auto; /* Maintain aspect ratio */
+    border: 2px solid black; /* Black border around the image */
+    margin-right: 20px; /* Add some spacing between image and content */
+    padding: 10px; /* Create a box around the image */
+    border-radius: 5px; /* Rounded corners for the box */
+}
+
+
 /* Add additional CSS to style your resume as desired */
 
